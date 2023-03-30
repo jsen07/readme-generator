@@ -26,10 +26,7 @@ no other contributions.
 ## Tests
 The app is tested through the terminal using node index.js
 ## License
-
-License: MIT
-License link: (https://opensource.org/licenses/MIT)
-License badge: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+No license
 
 ## Questions
 
