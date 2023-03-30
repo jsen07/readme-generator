@@ -1,11 +1,9 @@
-# a
+# Readme Generator
 
 ## Description 
-b
+To create a readme generator through the terminal using packages such as inquirer and fs in node.js.
 
 ## Table of Contents
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -15,21 +13,24 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Questions](#questions)
 
 ## Installation Instructions
-c
+The user must install the inquirer package by using 'npm i inquirer' in the terminal.
 
 ## Usage
-d
+The app can be used by going into the terminal and using cd to get into the 'develop' folder in the readme-generator folder. After, the application can be used by running node index.js. A series of prompts will appear which the user must answer to create the readme file.
 
 ## Contribution
-e
+No other contributions
 
 ## Tests
-f
+The app is tested through the terminal using node index.js
 ## License
 
+License: MIT
+License link: (https://opensource.org/licenses/MIT)
+License badge: [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
 
 ## Questions
 
-Link to my github profile: https://github.com/b
+Link to my github profile: https://github.com/jsen07
 
-You can reach me on b
+You can reach me on jayssendecastro@gmail.com
